@@ -15,8 +15,8 @@ An interactive and stylish web application to track and manage AI safety inciden
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-safety-incident-dashboard.git
-cd ai-safety-incident-dashboard
+git clone  https://github.com/KeerthiKumarK/AI-Safety-Incident
+cd AI-Safety-Incident
 ```
 ### 2. Install dependencies
    ```bash
