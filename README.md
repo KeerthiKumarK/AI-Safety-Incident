@@ -24,7 +24,7 @@ cd AI-Safety-Incident
 ```
 ### 3. Start the development server
    ```bash
- npm install
+ npm start
 ```
    
 The app will be available at [http://localhost:3000/](http://localhost:3000/) by default.
