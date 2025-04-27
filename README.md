@@ -18,11 +18,11 @@ An interactive and stylish web application to track and manage AI safety inciden
 git clone https://github.com/your-username/ai-safety-incident-dashboard.git
 cd ai-safety-incident-dashboard
 ```
-###2. Install dependencies
+### 2. Install dependencies
    ```bash
  npm install
 ```
-###3. Start the development server
+### 3. Start the development server
    ```bash
  npm install
 ```
